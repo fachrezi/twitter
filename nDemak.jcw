@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>nDemak</label>
+	</settings>
+	<users>
+		<user>
+			<path>nDemak.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NamexTweet\NamexTweet.jcp</path>
+		</project>
+	</projects>
+</workspace>
